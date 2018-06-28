@@ -1,6 +1,6 @@
 {
   "name": "person-info",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "App to catch personal info",
   "main": "app.js",
   "scripts": {
