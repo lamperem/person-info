@@ -1,0 +1,27 @@
+{
+  "name": "person-info",
+  "version": "1.0.0",
+  "description": "App to catch personal info",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamperem/person-info.git"
+  },
+  "keywords": [
+    "nodejs",
+    "console"
+  ],
+  "author": "Gustavo Lopez - @lamperem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamperem/person-info/issues"
+  },
+  "homepage": "https://github.com/lamperem/person-info#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "prompt": "^1.0.0"
+  }
+}
